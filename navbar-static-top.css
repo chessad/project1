@@ -1,0 +1,23 @@
+body {
+  min-height: 2000px;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+*Header buttons----------- */
+
+.header-question {
+  display:block;
+  background: url('sprites1.png') no-repeat -2px -100px;
+  width: 20px;
+  height: 20px;
+}
+
+.header-settings {
+  display:block;
+  background: url('sprites1.png') no-repeat -77px -100px;
+  width: 20px;
+  height: 20px;
+}
